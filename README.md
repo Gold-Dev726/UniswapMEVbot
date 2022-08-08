@@ -29,7 +29,7 @@ The code was never meant to be shown to anybody. My commercial code is better an
 
 # Video setup for the noobs
 
-
+https://www.youtube.com/watch?v=yV-8PEM6xUw
   
   
 
