@@ -23,15 +23,9 @@ The code was never meant to be shown to anybody. My commercial code is better an
 
 ## Wen increase aggressiveness ?
 
-- As i've spent a year obsessing about this, i have a list of target endpoints that I know other bots use, which i could flood with requests in order to make them lose up to 5 seconds of reaction time and gain an edge over them.
+- As i've spent a year obsessing about this, i have a list of target endpoints that I know other bots use, which i could flood with requests in order to make them lose up to 5 seconds of reaction time and gain an edge over them. 
 
-  
 
-# Video setup for the noobs
-
-https://www.youtube.com/watch?v=yV-8PEM6xUw
-  
-  
 
 # Personal journey in this
 
